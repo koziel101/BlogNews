@@ -1,24 +1,50 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto de Software intitulado "Blog News".  
 
-Things you may want to cover:
+Descrição
+---------
+**Blog News** é um sistema web de Blog, onde é possível criar, editar e excluir artigos. O foco deste blog se difere dos demais blogs no seu intuito, os seus colaboradores são incentivados a postarem notícias, eventos, acontecimentos e similares. 
 
-* Ruby version
+## Preview
 
-* System dependencies
+[Gostaria de ver o sistema?](https://blog-news.herokuapp.com/)
 
-* Configuration
+## Ferramentas e linguagens utilizadas
 
-* Database creation
+1- HTML
+2- CSS
+3- Ruby on Rails
+4- JavaScript
+5- Jquery
+6- BootStrap (Bill Turner)
+7- Heroku
 
-* Database initialization
+Autor(es)
+-------
+ * Hiago Augusto Koziel Rahmig - <hiagokoziel100@gmail.com>
+ 
+*Quick Start*
+-------------
+Para trabalhar no projeto localmente, vá para uma pasta que deseja colocar o projeto e abra um Terminal UNIX nessa pasta (Git Bash no Windows), digitando o seguinte comando:
 
-* How to run the test suite
+* `git clone https://github.com/koziel101/BlogNews.git`
 
-* Services (job queues, cache servers, search engines, etc.)
+* Após terminar de trabalhar algo no projeto, digite (**Obs.:** Se foram criados novos arquivos, deve-se adicioná-los ao repositório local com o comando `git add -a`, depois disso digite):
 
-* Deployment instructions
+* `git commit` e uma mensagem de *commit* que descreva de forma **sucinta** e **clara** o que foi feito no projeto.
 
-* ...
+* Após o *commit*, digite `git push` para enviar para o repositório remoto no GitHub.
+
+**Obs.:** Caso o repositório remoto tenha sido atualizado após o último *push*, o seu repositório local está desatualizado. Para atualizar digite `git pull` e os arquivos serão todos atualizados com o repositório remoto.
+
+
+Bug tracker
+-----------
+Encontrou um bug? Quer sugerir um novo recurso ou melhoria? Informe-nos aqui no GitHub!
+
+[Issues - koziel101/BlogNews](https://github.com/koziel101/BlogNews/issues)
+
+Pull Request
+------------
+Aceitamos Pull Requests, mas todos serão analisados e ponderados, antes de serem aprovados.
