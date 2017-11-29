@@ -12,13 +12,13 @@ Descrição
 
 ## Ferramentas e linguagens utilizadas
 
-* HTML
-* CSS
-* Ruby on Rails
+* HTML 5
+* CSS 3
+* [Ruby on Rails 5.1.4](http://rubyonrails.org/)
 * JavaScript
 * Jquery
-* BootStrap (Bill Turner)
-* Heroku
+* [BootStrap (Bill Turner) 3.3.7](https://getbootstrap.com/docs/3.3/)
+* [Heroku](heroku.com)
 
 Autor(es)
 -------
