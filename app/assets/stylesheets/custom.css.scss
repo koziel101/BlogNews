@@ -3,8 +3,8 @@ $navbar-default-bg: black;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-#logo{
-  float:left;
+#logo {
+  float: left;
   font-size: 1.7em;
   color: #fff;
   text-transform: uppercase;
@@ -13,37 +13,37 @@ $navbar-default-bg: black;
   text-decoration: underline overline;
 }
 
-#logo:hover{
+#logo:hover {
   color: #cecece;
 }
 
-#navbar-article{
-  color:white;
-}
-
-#navbar-article:hover{
-  color: #cecece;
-}
-
-#dropdown-button{
+#navbar-article {
   color: white;
 }
 
-#dropdown-button:hover{
+#navbar-article:hover {
   color: #cecece;
 }
 
-.center{
+#dropdown-button {
+  color: white;
+}
+
+#dropdown-button:hover {
+  color: #cecece;
+}
+
+.center {
   text-align: center;
 }
 
-.jumbotron{
+.jumbotron {
   background-image: asset-url("ruby_background.jpg");
   background-size: cover;
   height: 530px;
 }
 
-.jumbotron h1{
+.jumbotron h1 {
   color: white;
   text-align: center;
   margin-bottom: 30px;
@@ -51,28 +51,29 @@ $navbar-default-bg: black;
   font-weight: bold;
 }
 
-.btn-xlarge{
+.btn-xlarge {
   font-size: 1.7em;
   background-color: black;
+  margin-top: 100px;
 }
 
-footer{
+footer {
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: #777;
 }
 
-footer small{
+footer small {
   float: left;
 }
 
-footer ul{
+footer ul {
   float: right;
   list-style: none;
 }
 
-footer ul li{
+footer ul li {
   float: left;
   margin-left: 15px;
 }
