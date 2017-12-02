@@ -8,7 +8,7 @@ Descrição
 
 ## Preview
 
-[Gostaria de ver o sistema?](https://blog-news.herokuapp.com/)
+[Gostaria de visualizar o sistema?](https://blog-news.herokuapp.com/)
 
 ## Ferramentas e linguagens utilizadas
 
