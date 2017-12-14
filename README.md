@@ -19,7 +19,7 @@ Descrição
 * Jquery
 * [BootStrap (Bill Turner) 3.3.7](https://getbootstrap.com/docs/3.3/)
 * [Heroku](https://www.heroku.com/)
-* [Gravatar](gravatar.com)
+* [Gravatar](https://www.gravatar.com)
 
 Autor(es)
 -------
