@@ -6,9 +6,25 @@ Descrição
 ---------
 **Blog News** é um sistema web de Blog, onde é possível criar, editar e excluir artigos. O foco deste blog se difere dos demais blogs no seu intuito, os seus colaboradores são incentivados a postarem notícias, eventos, acontecimentos e similares. 
 
+## Detalhamento do sistema
+
+Obs.: O sistema possui um modo de Administradores, no qual um administrador possui total controle do sistema. Na seção de visualizar o sistema, é fornecido o login e a senha para um usuário administrador (FAVOR NÃO EXCLUIR OU ALTERAR ESTE USUÁRIO). Um administarodr pode efetuar as seguintes operações (além das possíveis para um usuário comum):
+* Editar qualquer artigo
+* Excluir qualquer artigo
+* Renomear qualquer categoria
+* Excluir qualquer categoria
+* Criar novas categorias
+* Excluir qualquer usuário
+
 ## Preview
 
 [Gostaria de visualizar o sistema?](https://blog-news.herokuapp.com/)
+
+Para visualizar o sistema em modo de Administrador utilize as seguintes credenciais:
+* Email: admin@email.com
+* Senha: 1234
+
+Obs.: Este sistema serve exclusivamente como portfólio, então sinta-se à vontade para criar/editar/excluir usuários, artigos e categorias, **COM EXCEÇÃO DO USUÁRIO ADMINISTRADOR**.
 
 ## Ferramentas e linguagens utilizadas
 
