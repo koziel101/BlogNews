@@ -8,7 +8,9 @@ Descrição
 
 ## Detalhamento do sistema
 
-Obs.: O sistema possui um modo de Administradores, no qual um administrador possui total controle do sistema. Na seção de visualizar o sistema, é fornecido o login e a senha para um usuário administrador (FAVOR NÃO EXCLUIR OU ALTERAR ESTE USUÁRIO). Um administarodr pode efetuar as seguintes operações (além das possíveis para um usuário comum):
+Neste sistema, os usuários podem criar realizar login/logout, criar/editar/visualizar artigos, visualizar artigos de outras pessoas e colocar tags/categorias em seus artigos.
+
+Obs.: O sistema possui um modo de Administradores, no qual um administrador possui total controle do sistema. Na seção de visualizar o sistema, é fornecido o login e a senha para um usuário administrador (FAVOR NÃO EXCLUIR OU ALTERAR ESTE USUÁRIO). Um administrador pode efetuar as seguintes operações (além das possíveis para um usuário comum):
 * Editar qualquer artigo
 * Excluir qualquer artigo
 * Renomear qualquer categoria
