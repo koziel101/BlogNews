@@ -28,7 +28,7 @@ Para visualizar o sistema em modo de Administrador utilize as seguintes credenci
 
 Obs.: Este sistema serve exclusivamente como portfólio, então sinta-se à vontade para criar/editar/excluir usuários, artigos e categorias, **COM EXCEÇÃO DO USUÁRIO ADMINISTRADOR**.
 
-Obs2.: É possível adicionar foto de perfil através do [Gravatar](https://www.gravatar.com). Para isto, basta criar uma conta no Gravatar com o mesmo e-mail que foi criar neste sistema.
+Obs2.: É possível adicionar foto de perfil através do [Gravatar](https://www.gravatar.com). Para isto, basta criar uma conta no Gravatar com o mesmo e-mail que irá ser criado neste sistema.
 
 ## Ferramentas e linguagens utilizadas
 
