@@ -88,10 +88,15 @@ $navbar-default-bg: black;
 }
 
 .badge {
-  background-color: #CEF6F5;
+  background-color: #D6AC40;
   text-transform: uppercase;
   letter-spacing: -1px;
   font-weight: bold;
+  margin-right: 5px;
+}
+
+#me {
+  color: white;
 }
 
 .input_checkbox input {
