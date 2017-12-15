@@ -3,7 +3,7 @@
   
   <% if logged_in? and current_user.admin? %>
     <div class="row">
-      <span ><%= link_to "Edit Category Name", edit_category_path %></span>
+      <span ><%= link_to "Edit Category Name", edit_category_path %></span> | <span ><%= link_to "Delete Category", category_path(@category), method: :delete, data: { confirm: "Are you sure you want to delete this category?"} %></span>
     </div>
   <% end %>
   
