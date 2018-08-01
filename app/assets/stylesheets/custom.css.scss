@@ -12,6 +12,10 @@ $navbar-default-bg: black;
   text-decoration: underline overline;
 }
 
+body {
+  background-color: #d6d6d6;
+}
+
 #logo:hover {
   color: #cecece;
 }
@@ -131,4 +135,10 @@ footer ul li {
   background-size: cover;
   border-radius: 50%;
   box-shadow: 5px 5px 2px grey;
+}
+
+.header-all {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
 }
