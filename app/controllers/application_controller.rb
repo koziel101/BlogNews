@@ -1,6 +1,7 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   
+  # Metodos para validacao do login do usuario
   helper_method :current_user, :logged_in?
   
   def current_user

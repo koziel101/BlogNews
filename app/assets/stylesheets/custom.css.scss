@@ -2,7 +2,6 @@ $navbar-default-bg: black;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
-
 #logo {
   float: left;
   font-size: 1.7em;
@@ -122,4 +121,14 @@ footer ul {
 footer ul li {
   float: left;
   margin-left: 15px;
+}
+
+#grav {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-image: asset-url("profile_pic.jpg");
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 5px 5px 2px grey;
 }
