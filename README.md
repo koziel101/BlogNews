@@ -84,7 +84,7 @@ Obs.: The website has an "administrator mode", in which the adm has full control
 * Create new  categories
 * Delete any category
 * Rename any category
-* Deleteany user
+* Delete any user
 
 In "Preview" section, is provided a login and password for one administrator user. (PLEASE DO NOT DELETE OR CHANGE THIS USER).
 
@@ -109,7 +109,7 @@ Obs2.: It's possible to add a profile picture through [Gravatar](https://www.gra
 * [Heroku](https://www.heroku.com/)
 * [Gravatar](https://www.gravatar.com)
 
-###Author(s)
+### Author(s)
  * Hiago Augusto Koziel Rahmig - <hiagokoziel100@gmail.com>
  
 ### *Quick Start*
