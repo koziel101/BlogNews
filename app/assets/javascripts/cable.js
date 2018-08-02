@@ -11,3 +11,15 @@
   App.cable = ActionCable.createConsumer();
 
 }).call(this);
+
+//JQuery to enable fade in animation
+$(window).scroll(function() {
+  $(".slideanim").each(function() {
+    var pos = $(this).offset().top;
+
+    var winTop = $(window).scrollTop();
+    if (pos < winTop + 800) {
+      $(this).addClass("slide");
+    }
+  });
+});

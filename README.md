@@ -1,6 +1,12 @@
 # README
 
-Projeto de Software intitulado "Blog News".  
+[**Português**](#português) | [**English**](#english)
+
+BlogNews
+=====================================================================================================
+
+Português
+--------------------------
 
 Descrição
 ---------
@@ -69,3 +75,10 @@ Encontrou um bug? Quer sugerir um novo recurso ou melhoria? Informe-nos aqui no 
 Pull Request
 ------------
 Aceitamos Pull Requests, mas todos serão analisados e ponderados, antes de serem aprovados.
+
+English
+--------------------------
+
+description
+---------
+**Blog News** is a blog.
