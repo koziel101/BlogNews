@@ -8,7 +8,7 @@ BlogNews
 Português
 --------------------------
 
-###Descrição
+### Descrição
 
 **Blog News** é um sistema web de Blog, onde é possível criar, editar e excluir artigos. O foco deste blog se difere dos demais blogs no seu intuito, os seus colaboradores são incentivados a postarem notícias, eventos, acontecimentos e similares. 
 
@@ -45,7 +45,7 @@ Obs2.: É possível adicionar foto de perfil através do [Gravatar](https://www.
 * [Heroku](https://www.heroku.com/)
 * [Gravatar](https://www.gravatar.com)
 
-###Autor(es)
+### Autor(es)
  * Hiago Augusto Koziel Rahmig - <hiagokoziel100@gmail.com>
  
 ### *Quick Start*
