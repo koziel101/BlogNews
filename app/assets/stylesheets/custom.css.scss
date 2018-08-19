@@ -6,6 +6,7 @@ $navbar-default-bg: black;
 body {
   background-color: #d6d6d6;
   margin: 0;
+  padding: 0;
 }
 
 footer {
@@ -27,6 +28,10 @@ footer ul {
 footer ul li {
   float: left;
   margin-left: 15px;
+}
+
+#corpo-site {
+  width: 99%;
 }
 
 #dropdown-button {
@@ -127,6 +132,7 @@ footer ul li {
   position: -webkit-sticky;
   top: 0;
   z-index: 1; // Makes the nav bar always display in front of other objects
+  width: 101%;
 }
 
 .input_checkbox input {
